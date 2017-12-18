@@ -1,6 +1,3 @@
-## Welcome to my site
+This blog records my recent achievements in the field of computer science.
 
-
-```markdown
-I will upload more stuff later
-```
+I'm gradually moving my old articles on my wordpress site cplusplusgametricks.wordpress.com to this new blog!
